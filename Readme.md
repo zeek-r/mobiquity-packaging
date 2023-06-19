@@ -33,10 +33,14 @@ same price.
 ## Build and Test
 ---
 ### Pre-requisites
+---
 - node v1.18 and above
 - tsc v5.1.3 and above
 - jest v29.5 and above
 
+### Setup
+---
+> npm i
 ### Build
 ---
 > npm build // builds js to /dist dir
